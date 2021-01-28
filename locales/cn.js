@@ -1,3 +1,7 @@
+import index from '@/components/uni-tabbar/locales/cn';
 export default {
-  test: '测试',
+  txt: {
+    index,
+    test: '测试',
+  },
 };

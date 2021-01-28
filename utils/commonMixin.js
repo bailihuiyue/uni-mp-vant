@@ -1,7 +1,7 @@
 export default {
   computed: {
     i18n() {
-      return this.$t('test');
+      return this.$t('txt');
     },
   },
 };
